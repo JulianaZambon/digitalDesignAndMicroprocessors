@@ -15,3 +15,6 @@ Todos os componentes do simulador Digital podem ser usados.
 ### Subcircuito da Unidade Lógica Aritmética (ULA)
 
 ![ula](https://github.com/JulianaZambon/projetosDigitais-microprocessadores/assets/64793722/16f3fa04-40a9-4009-82f5-24c34d2ad4cf)
+
+## Trabalho MIPS
+Implementação um processador que é um subconjunto do MIPS monociclo. Um caminho de dados está anexo como sugestão de implementação.
