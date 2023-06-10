@@ -18,3 +18,7 @@ Todos os componentes do simulador Digital podem ser usados.
 
 ## Trabalho MIPS
 Implementação um processador que é um subconjunto do MIPS monociclo. Um caminho de dados está anexo como sugestão de implementação.
+
+## Bloco de registradores em um MIPS monociclo
+![registradores](https://github.com/JulianaZambon/projetosDigitais-microprocessadores/assets/64793722/549a3d00-7a6f-4851-b10d-cd7f48fa0cd5)
+
