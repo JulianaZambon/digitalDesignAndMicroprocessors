@@ -22,7 +22,8 @@ Implementação um processador que é um subconjunto do MIPS monociclo. Um camin
 ![registradores](https://github.com/JulianaZambon/projetosDigitais-microprocessadores/assets/64793722/549a3d00-7a6f-4851-b10d-cd7f48fa0cd5)
 
 ## Unidade Lógica Aritmética (ULA)
-![ULA](https://github.com/JulianaZambon/projetosDigitais-microprocessadores/assets/64793722/5cde26d4-d4a9-4c86-8437-89c749301271)
+![ULA](https://github.com/JulianaZambon/projetosDigitais-microprocessadores/assets/64793722/65a3f422-359e-46e2-bcef-fbe0313f431b)
+
 
 
 
