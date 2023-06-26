@@ -18,12 +18,17 @@ Todos os componentes do simulador Digital podem ser usados.
 ## Trabalho MIPS
 Implementação um processador que é um subconjunto do MIPS monociclo. Um caminho de dados está anexo como sugestão de implementação.
 
+### Circuito do MIPS Monociclo
+![MIPS](https://github.com/JulianaZambon/projetosDigitais-microprocessadores/assets/64793722/059e8573-f6bd-4c8f-9a29-784dec169d82)
+
+
 ## Bloco de registradores em um MIPS monociclo
 ![registradores](https://github.com/JulianaZambon/projetosDigitais-microprocessadores/assets/64793722/e26aca2d-3283-48d4-867b-b81d4646530b)
 
 
 ## Unidade Lógica Aritmética (ULA)
-![ULA](https://github.com/JulianaZambon/projetosDigitais-microprocessadores/assets/64793722/07a02dac-fe1f-4b82-b704-d4b2add3ddd4)
+![ULA](https://github.com/JulianaZambon/projetosDigitais-microprocessadores/assets/64793722/0df1cd72-d6a3-4373-9722-5c95763e8238)
+
 
 
 
